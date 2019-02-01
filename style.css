@@ -1,0 +1,39 @@
+
+h4{ 
+    color: floralwhite;
+    font-size:1.8em;
+    margin-top: 0.5em;background-color: burlywood
+    
+}
+
+
+.address {font-size:1.2em}
+h4 { 
+    font-size:1.2em;
+}
+
+ul{
+    list-style: none; font-size: 0.75em;
+}
+a {color: darkblue}
+a:hover {color: darkgreen}
+
+img{border-radius:100%}
+
+/* right sidebar */
+#right-col { background-color: #68C3D4; padding-left: 35em}
+
+
+.school1 {font-size:1.2em}
+
+.school2 {font-size: 1.2em}
+
+.summer {font-size: 1em}
+
+
+/*left sidebar */
+#left-col { background-color: #DFF8EB; text-align:center; height:100vh}
+
+#name {color: saddlebrown; text-align: center}
+#pic {text-align:center}
+.name {color: #99621E}
