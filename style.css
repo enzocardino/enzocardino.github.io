@@ -1,0 +1,57 @@
+
+h4{ 
+    color: floralwhite;
+    font-size:1.8em;
+    margin-top: 0.5em;background-color: burlywood
+    
+}
+h1{ 
+    color: whitesmoke;
+    font-size:1.9 em;
+    margin-top: 0.5em;background-color: brown; text-align: center
+    
+}
+
+
+.address {font-size:1.2em}
+h4 { 
+    font-size:1.2em;
+}
+
+ul{
+    list-style: none; font-size: 0.75em;
+}
+a {color: darkblue; text-align: center}
+a:hover {color: darkgreen; text-align: center}
+
+img{border-radius: 20%}
+
+
+
+
+
+.school1 {font-size:1.2em}
+
+.school2 {font-size: 1.2em}
+
+.summer {font-size: 1em}
+
+
+
+#left-col { background-color: lightblue; text-align: center}
+
+#right-col { background-color: lightpink; text-align: center}
+
+#name {color:black; text-align: center}
+#pic {text-align:center}
+.name {color: #99621E}
+
+#heading {color:darkgoldenrod; text-align: center; float: inherit}
+#papa1{border-radius: 100%}
+
+
+#left-col1 { background-color: #DFF8EB; text-align:center; height:100vh}
+#right-col1 { background-color: #68C3D4; padding-left: 28em}
+
+#left-col2 { background-color: peachpuff; text-align:center; height:100vh}
+#right-col2 { background-color: palevioletred; padding-left: 28em}
